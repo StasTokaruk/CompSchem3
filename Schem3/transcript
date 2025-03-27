@@ -1,0 +1,14 @@
+# Reading C:/altera/91/modelsim_ase/tcl/vsim/pref.tcl 
+# Loading project my_project
+vsim work.half_add
+# vsim work.half_add 
+# Loading work.half_add
+add wave sim:/half_add/*
+# Compile of halfaddlab1.v was successful.
+run -all
+run -all
+do C:/altera/91/modelsim_ase/examples/Stim.do
+# Break key hit 
+run -all
+run 10
+run 1000 ps
