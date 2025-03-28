@@ -1,0 +1,8 @@
+C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Ex2_Tokariuk_OR.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Ex2_Tokariuk_OR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}

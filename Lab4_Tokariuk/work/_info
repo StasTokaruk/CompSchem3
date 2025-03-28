@@ -1,0 +1,51 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\91\modelsim_ase\examples\Lab4_Tokariuk
+vddnf
+I]XJf=UZ]P`3fIOlIQ]7A31
+VGTz0;]PkaB@hOc<5QQV1H3
+w1743156184
+8C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/ddnf.v
+FC:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/ddnf.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+!s100 i7CA`dS5P`0^2g`MTbll`2
+!s85 0
+!s101 -O0
+vdknf
+!s100 <DbIlRa@d89F4k;cjTMmK3
+IDo:m5:32__AaHD7DnSAPZ0
+VbFD^@LDSDCKiH21AjO9PI3
+w1743156191
+8C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/dknf.v
+FC:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/dknf.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+w1743105535
+8C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Ex2_Tokariuk_OR.v
+FC:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Ex2_Tokariuk_OR.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
