@@ -1,0 +1,15 @@
+C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Lab5_Tokariuk/lab5_Tokariuk_Test1.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Lab5_Tokariuk/lab5_Tokariuk_Test1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Lab5_Tokariuk/lab5_Tokariuk_Testbanch1.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab4_Tokariuk/Lab5_Tokariuk/lab5_Tokariuk_Testbanch1.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module tb_demux
+
+Top level modules:
+	tb_demux
+
+} {} {}}
