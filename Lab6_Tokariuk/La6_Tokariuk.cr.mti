@@ -1,0 +1,16 @@
+C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/struk_sum.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/struk_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module struk_sum
+-- Compiling module bitsum
+
+Top level modules:
+	struk_sum
+
+} {} {}} C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/poved_sum.v {1 {vlog -work work -nocovercells C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/poved_sum.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module poved_sum
+
+Top level modules:
+	poved_sum
+
+} {} {}}

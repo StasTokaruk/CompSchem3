@@ -1,0 +1,69 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\91\modelsim_ase\examples\Lab4_Tokariuk\Lab5_Tokariuk
+vbitsum
+IcH3SM=PIBn9`6DKDL;ba>2
+Vi9NGmz9LhHK1Bn8hXVK7o2
+Z0 dC:\altera\91\modelsim_ase\examples\Lab6_Tokariuk
+Z1 w1745568994
+Z2 8C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/struk_sum.v
+Z3 FC:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/struk_sum.v
+L0 21
+Z4 OV;L;6.5b;42
+r1
+31
+Z5 !s102 -nocovercells
+Z6 o-work work -nocovercells -O0
+!s100 RmdE64=BzP9gOF6>jFCa=2
+!s85 0
+!s101 -O0
+vpoved_sum
+I>[S4Pjb:Qb@ElLz?IzeXo1
+V1HG<fP9l`NhL0MQWcgKc43
+Z7 dC:\altera\91\modelsim_ase\examples\Lab6_Tokariuk
+w1745568992
+8C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/poved_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/poved_sum.v
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 3;;@jX^5T>e:[j8OH`HVe1
+!s85 0
+!s101 -O0
+vstruk_sum
+IF>6BTAEA?e^IPUFREBAE_2
+V2Ggf:K2m0fPj:o7dPY]_^1
+R7
+R1
+R2
+R3
+L0 1
+R4
+r1
+31
+R5
+R6
+!s100 Q=W7gY0fiVo420GUT`zQm2
+!s85 0
+!s101 -O0
+vtestbench_sum
+!s100 eoFS1Sah>z2@dY[DPJMUe0
+I8>2oM4HAhOT68=2Fll^b31
+VgK0X5mbIAGGMmdYXoN4ZO0
+R7
+w1745569347
+8C:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/testbench_sum.v
+FC:/altera/91/modelsim_ase/examples/Lab6_Tokariuk/testbench_sum.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s101 -O0
+R5
+R6
